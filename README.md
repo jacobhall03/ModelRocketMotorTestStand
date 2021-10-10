@@ -1,6 +1,6 @@
 # Model Rocket Motor Test Stand
 
-Code for the test stand was orginally completed in February 2021. 
+Code for the test stand was orginally completed in February 2021 during my high school years, prior to any engineering training. 
 
 
 Resources:
